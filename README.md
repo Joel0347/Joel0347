@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm [Your Name]</h1>
+<h1 align="center">👋 Hello! I'm Joel Aparicio</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=FullStack+Developer;Always+learning+and+improving;Passionate+about+technology&font=Fira%20Code&center=true&width=440&height=45&color=0A66C2&vCenter=true&size=22" />
@@ -9,6 +9,8 @@
 ### 🚀 About Me
 
 > My primary objective is to continue advancing professionally in an environment where I can contribute my expertise. I embrace new challenges and strive to achieve my goals with maximum effort. Adaptable to both independent and collaborative work, I am proficient in backend and frontend development, and therefore consider myself a **FullStack developer**.
+
+📫 Email: joelat0307@email.com | 💼 LinkedIn: [/in/joel-aparicio](https://www.linkedin.com/in/joel-aparicio)
 
 ---
 
@@ -51,5 +53,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=Joel0347&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views counter" />
 </p>
